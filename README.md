@@ -1,2 +1,2 @@
 # trigonometric
-trigonometric values from numbers on C#
+trigonometric values on C#

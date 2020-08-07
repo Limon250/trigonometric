@@ -1,0 +1,13 @@
+D:\Programms\csharp\trigonometric\obj\Debug\netcoreapp3.1\trigonometric.csprojAssemblyReference.cache
+D:\Programms\csharp\trigonometric\obj\Debug\netcoreapp3.1\trigonometric.AssemblyInfoInputs.cache
+D:\Programms\csharp\trigonometric\obj\Debug\netcoreapp3.1\trigonometric.AssemblyInfo.cs
+D:\Programms\csharp\trigonometric\obj\Debug\netcoreapp3.1\trigonometric.csproj.CoreCompileInputs.cache
+D:\Programms\csharp\trigonometric\bin\Debug\netcoreapp3.1\trigonometric.exe
+D:\Programms\csharp\trigonometric\bin\Debug\netcoreapp3.1\trigonometric.deps.json
+D:\Programms\csharp\trigonometric\bin\Debug\netcoreapp3.1\trigonometric.runtimeconfig.json
+D:\Programms\csharp\trigonometric\bin\Debug\netcoreapp3.1\trigonometric.runtimeconfig.dev.json
+D:\Programms\csharp\trigonometric\bin\Debug\netcoreapp3.1\trigonometric.dll
+D:\Programms\csharp\trigonometric\bin\Debug\netcoreapp3.1\trigonometric.pdb
+D:\Programms\csharp\trigonometric\obj\Debug\netcoreapp3.1\trigonometric.dll
+D:\Programms\csharp\trigonometric\obj\Debug\netcoreapp3.1\trigonometric.pdb
+D:\Programms\csharp\trigonometric\obj\Debug\netcoreapp3.1\trigonometric.genruntimeconfig.cache
