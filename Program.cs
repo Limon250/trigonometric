@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Threading;
 using System.Diagnostics;
 
@@ -381,5 +381,6 @@ namespace trigonometric
 			actionBeforeClosing();
 			CloseProgram();
 		}
-    }
+    	Console.ReadLine();
+	}
 }
